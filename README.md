@@ -1,7 +1,7 @@
 
 # 🖼️ Pixabay Gallery App
 
-A modern Flutter application to search and showcase images from [Pixabay](https://pixabay.com/), built using **Riverpod** for state management and **Lottie** for smooth animations.
+A modern Flutter application to search and showcase images from [Pixabay](https://pixabay.com/).
 
 ---
 
